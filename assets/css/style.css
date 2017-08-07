@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+}
+
+html, body{
+	  width: auto;
+	  height: 500px;
+      color: black;
+      background-color: white;
+      border: 3px solid black;
+}
+
+#game{
+	margin-top: 20px;
+	text-align: left;
+}
+
+header{
+	font-size: 30px;
+}
